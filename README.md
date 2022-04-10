@@ -6,7 +6,7 @@ Site de aula de HTML5 e CSS3 da plataforma Alura
 
   
   <h1>Divições</h1>
-  <img src="beneficios.jpg">
+  <img src="banner.jpg">
   <p>O projeto do site foi dividido em três partes</p>
   <li>Home: O inicio do site e onde se mostra pra onde ir.</li>
   <li>Produtos: Nessa parte do site pode se ver o tipo de produtos e cortes oferecidos ao cliente pelo estabelecimento.</li>
